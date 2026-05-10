@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <!-- No action bar; WebView takes full screen -->
-    <style name="Theme.Seedr" parent="Theme.AppCompat.Light.NoActionBar">
-        <item name="android:statusBarColor">#1a1a2e</item>
-        <item name="android:windowBackground">@android:color/white</item>
-    </style>
-</resources>
